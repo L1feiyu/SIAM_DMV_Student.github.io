@@ -1,6 +1,6 @@
 ---
 layout: page
-title: submenus
+title: submenus changed for SIAM
 nav: true
 nav_order: 8
 dropdown: true
