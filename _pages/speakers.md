@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /blog/
-title: blog
+permalink: /speakers/
+title: speakers
 nav: true
-nav_order: 1
+nav_order: 2
 pagination:
   enabled: true
   collection: posts

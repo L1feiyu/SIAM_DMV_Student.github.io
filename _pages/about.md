@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. John Hopkins University / University of Maryland, Baltimore County / George Washington University / George Mason University / University of Maryland， College Park / Georgetown University
 
 profile:
   align: right
@@ -26,10 +26,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-testtestteststesetseserserserser -- will change later
-Write a description about this SIAM meeting.-- this should be changed.
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+We are delighted to announce the upcoming SIAM Conference on Applied Mathematics Research (DMV Area). Through a collaborative effort involving several institutions' SIAM Student Chapters, including JHU, UMBC, GWU, GMU, Georgetown, UMD College Park, we aim to bring together students and faculty from the DMV area working on all types of mathematics research. The aim of this joint meeting among these neighboring institutions and SIAM student chapters presents an exceptional opportunity to bring together math researchers at all levels to learn from peers, share ideas and foster new collaborations. Please join us for poster sessions, research talks, and keynote speakers from distinguished faculty with research expertise spanning machine and statistical learning, numerical methods, mathematical biology, and more!
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
